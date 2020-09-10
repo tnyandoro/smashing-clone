@@ -164,6 +164,13 @@ p {
   background-color: #A0A0A0;
 }
 
+.section-3 {
+  display: flex;
+  justify-content: center;
+  margin-top: 2%;
+  background-color: #A0A0A0;
+}
+
 .art {
   padding: 2% 5% 3% 5%;
 }
@@ -202,13 +209,13 @@ p {
   padding-bottom: 50px;
 }
 
-.right-1 {
+.side-B {
   flex: 1;
   padding-left: 2%;
-  background-color: var(--blue-gray);
+  background-color: #D3D3D3;
 }
 
-.right-1 p {
+.side-B p {
   margin-top: 20px;
   padding-right: 100px;
   font-size: 18px;
@@ -216,14 +223,14 @@ p {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-.right-1 a {
+.side-B a {
   padding-right: 100px;
   font-weight: bolder;
   color: black;
   font-size: 30px;
 }
 
-.left-1 p {
+.side-B p {
   margin-top: 20px;
   width: 60%;
   text-align: center;
@@ -419,4 +426,4 @@ hr {
 
 .section-11 h1 {
   margin-top: 2%;
-} */
+} 
