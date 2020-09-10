@@ -184,8 +184,16 @@ p {
   line-height: 2;
   width: 100%;
 }
-/*
-.left-1 {
+
+.membership-btn{
+  margin-top: 19px;
+  height: 40px;
+  width: 190px;
+  border: none;
+  border-radius: 10px;
+  
+}
+.side-A {
   flex-direction: column;
   align-items: center;
   justify-content: center;
