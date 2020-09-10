@@ -48,6 +48,14 @@ input{
 .container{
   display: grid;
 }
+.grid{
+  display: grid;
+}
+
+.article1{
+background-color: #383333;
+
+}
 .section1{
   padding-left: 20%;
     font-size: 30px;
@@ -55,4 +63,10 @@ input{
     width: 100%;
     padding-top: 20%;
     padding-bottom: 20%;
+}
+.flex{
+  display: flex;
+}
+.article-tag flex{
+  justify-content: space-around;
 }
