@@ -1,4 +1,4 @@
-# Bubble Sort
+# Smashing Magazine Heat Map
 
 > For this project, we created two **sorting algorithms** that use the [bubble sort](https://en.wikipedia.org/wiki/Bubble_sort) method. 
 
