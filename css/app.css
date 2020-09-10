@@ -95,7 +95,7 @@ input {
 }
 
 .writer {
-  transform: rotate(-20deg);
+  transform: rotate(-15deg);
   margin-bottom: 30px;
   float: left;
 }
@@ -108,13 +108,14 @@ input {
   justify-content: space-around;
 }
 
-.position {
+.section1-head {
   position: absolute;
   top: 100px;
-  right: 500px;
+  right: 600px;
   width: 400px;
   text-align: center;
-  background-color: white;
+  box-shadow: #fff;
+  background-color: #fff;
   font-size: 40px;
 }
 
