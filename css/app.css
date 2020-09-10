@@ -206,7 +206,9 @@ p {
   justify-content: center;
   flex: 2;
   background-color: rgb(66, 66, 66);
-  padding-bottom: 50px;
+  padding-bottom: 10px;
+  padding-top: -20px;
+  border-radius: 1rem;
 }
 
 .side-B {
@@ -235,20 +237,32 @@ p {
   width: 60%;
   text-align: center;
 }
+.section-4 {
+  background-color:#707070;
+  padding-top: 5%;
+  padding-bottom: 5%;
+  margin: 5%;
+  border-radius: 10px;
+}
+.felix2  {
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    flex: 2;
+    background-color: rgb(66, 66, 66);
+    padding-bottom: 50px;
+}
+.click {
+font-size:xx-large;
+color: floralwhite;
+}
+
 
 .left-1-btn {
   margin-top: 19px;
   height: 40px;
   width: 170px;
   border: none;
-  border-radius: 10px;
-}
-
-.section-5 {
-  background-color: var(--gray);
-  padding-top: 5%;
-  padding-bottom: 5%;
-  margin: 5%;
   border-radius: 10px;
 }
 
