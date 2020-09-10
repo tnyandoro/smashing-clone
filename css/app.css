@@ -47,7 +47,9 @@ input {
 .top {
   display: flex;
 }
-
+.grid{
+  display: grid;
+}
 /*
  .wrapper{
   background-color: grey;
@@ -256,7 +258,20 @@ p {
 font-size:xx-large;
 color: floralwhite;
 }
-
+.section-5{
+  margin-top: 10%;
+  padding-left: 6%;
+  padding-top: 5%;
+  grid-template-columns: 1fr 1fr;
+  grid-row-gap: 6%;
+  margin-bottom: 5%;
+  background-color:#DCDCDC ;
+  height: auto;
+  padding-bottom: 10%;
+}
+.section-5-grid {
+  padding-bottom: 20%;
+}
 
 .left-1-btn {
   margin-top: 19px;
