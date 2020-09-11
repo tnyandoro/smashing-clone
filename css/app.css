@@ -35,6 +35,7 @@ input {
   width: 300px;
   border: none;
   border-radius: 9px;
+  background-color:rgb(177, 177, 170);
 }
 
 .fa-search {
