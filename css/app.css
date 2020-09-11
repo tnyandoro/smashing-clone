@@ -156,14 +156,14 @@ p {
 .section-2 {
   display: flex;
   justify-content: space-evenly;
-  margin-top: 2%;
+  margin-top: 0;
   background-color: #A0A0A0;
 }
 
 .section-3 {
   display: flex;
   justify-content: center;
-  margin-top: 2%;
+  margin-top: 0;
   background-color: #A0A0A0;
 }
 
@@ -235,9 +235,9 @@ p {
 }
 .section-4 {
   background-color:#707070;
-  padding-top: 5%;
-  padding-bottom: 5%;
-  margin: 5%;
+  padding-top: 0;
+  padding-bottom: 0;
+  margin: 1%;
   border-radius: 10px;
 }
 .felix2  {
@@ -253,13 +253,13 @@ font-size:xx-large;
 color: floralwhite;
 }
 .section-5{
-  margin-top: 10%;
+  margin-top: 1%;
   padding-left: 6%;
   padding-top: 5%;
   grid-template-columns: 1fr 1fr;
   grid-row-gap: 6%;
-  margin-bottom: 5%;
-  background-color:#DCDCDC ;
+  margin-bottom: 1%;
+  background-color:#C0C0C0; ;
   height: auto;
   padding-bottom: 10%;
 }
@@ -271,16 +271,17 @@ color: floralwhite;
   color:#000;
 }
 .section-6 {
-  background-color: lightslategray;
+  background-color: #D3D3D3;   ;
   justify-content: space-between;
-  padding-left: 5%;
+  padding-left: 1%;
+  padding-top:2rem;
   height: 350px;
-  margin-bottom: 5%;
+  margin-bottom: 1%;
 }
 
 .wording {
-  padding-top: 5%;
-  padding-left: 5%;
+  padding-top: 0;
+  padding-left: 0;
   flex: 2;
   line-height: 1;
   font-size: 20px;
@@ -312,4 +313,8 @@ color: floralwhite;
 
 .book:hover{
   transform: rotate(0deg);
+}
+.section-7 {
+  background-color: #9b9494;
+  padding-top: 3rem;
 }
