@@ -335,5 +335,35 @@ color: floralwhite;
   flex-direction: column;
   justify-content: space-between;
   height: 100%;
-  background-color: var(--l-gray);
+  background-color: #C0C0C0;
+}
+
+.listA {
+  justify-content: space-around;
+}
+
+.listA li {
+  margin-left: 35px;
+  font-size: 20px;
+}
+
+.listA a {
+  text-decoration: none;
+  color: #000;
+  font-weight: bolder;
+}
+
+.ftr-text {
+  margin-top: 40px;
+}
+
+.ftr-links {
+  margin-top: 15px;
+}
+
+.ftr-links a {
+  text-decoration: none;
+  margin-left: 10px;
+  color: #000;
+  font-weight: 700;
 }
