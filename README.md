@@ -44,7 +44,7 @@ To get this project up and running, you must have a browser running your machine
 
 ## 🤝 Contributing
 
-The best way you can contribute to this project is by submitting an [issue](https://github.com/enaburekhan/Newyorktimes-clone/issues) to help us improve it!
+The best way you can contribute to this project is by submitting an [issue](https://github.com/tnyandoro/smashing-clone/issues) to help us improve it!
 
 ## Show your support
 
