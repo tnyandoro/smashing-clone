@@ -338,16 +338,16 @@ color: floralwhite;
   background-color: #C0C0C0;
 }
 
-.listA {
+.biglist  {
   justify-content: space-around;
 }
 
-.listA li {
+.biglist  li {
   margin-left: 35px;
   font-size: 20px;
 }
 
-.listA a {
+.biglist  a {
   text-decoration: none;
   color: #000;
   font-weight: bolder;
