@@ -9,7 +9,7 @@ nav {
 }
 
 .navbar {
-  background-color: #3d3232;
+  background-color: #413636;
   justify-content: space-around;
   height: 90px;
   align-items: center;
@@ -52,13 +52,6 @@ input {
   display: grid;
 }
 
-/*
- .wrapper{
-  background-color: grey;
-  display: grid;
-  grid-template-columns: (12,1fr);
- }
- */
 .section1 {
   display: grid;
   grid-template-columns: 1fr 1fr;
